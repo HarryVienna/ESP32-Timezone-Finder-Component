@@ -1,0 +1,33 @@
+{
+    "files.associations": {
+        "sdkconfig.h": "c",
+        "gpio.h": "c",
+        "ledc.h": "c",
+        "uart.h": "c",
+        "esp_intr_alloc.h": "c",
+        "esp_attr.h": "c",
+        "timer.h": "c",
+        "esp_sleep.h": "c",
+        "esp_timer.h": "c",
+        "unistd.h": "c",
+        "esp_log.h": "c",
+        "stddef.h": "c",
+        "timer_ll.h": "c",
+        "string.h": "c",
+        "sstream": "c",
+        "cdefs.h": "c",
+        "step_motor.h": "c",
+        "stdlib.h": "c",
+        "uart_types.h": "c",
+        "gps_modul.h": "c",
+        "tz_database.h": "c",
+        "esp_flash.h": "c",
+        "esp_flash_spi_init.h": "c",
+        "esp_vfs.h": "c",
+        "esp_vfs_fat.h": "c",
+        "esp_int_wdt.h": "c",
+        "esp_task_wdt.h": "c",
+        "freertos.h": "c",
+        "unity.h": "c"
+    }
+}
