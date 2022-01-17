@@ -1,6 +1,6 @@
 # ESP32-Timezone-Finder-Component
 
-This is a compoment for the ESP32 to get the timezone based on GPS coordinates. 
+This is a compoment for the ESP32 to find the timezone based on GPS coordinates. 
 
 
 The database can be generated with the [Timezone-Database-Generator](https://github.com/HarryVienna/Timezone-Database-Generator)
