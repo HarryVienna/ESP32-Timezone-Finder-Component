@@ -60,7 +60,7 @@ static esp_err_t w25q128_init(tz_database_t *tzdb)
     );
 
     // Initialize the SPI bus
-    ret = spi_bus_initialize(VSPI_HOST, &bus_config, SPI_DMA_CH_AUTO);
+    ret = spi_bus_initialize(SPI3_HOST, &bus_config, SPI_DMA_CH_AUTO);
     if (ret != ESP_OK) {
         ESP_LOGE(TAG, "Failed to initialize SPI bus: %s (0x%x)", esp_err_to_name(ret), ret);
         return ret;
